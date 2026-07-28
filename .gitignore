@@ -1,3 +1,13 @@
-/.quarto/
+# RStudio files
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# Quarto build artifacts
+.quarto/
 **/*.quarto_ipynb
-.Rproj.user
+_site/
+
+# Project files
+*.Rproj
