@@ -1,0 +1,17 @@
+{
+  "hash": "bae32740e0486975f9a285aabdd720ec",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Fritz Butohan\"\nsubtitle: \"Agriculture Professional | Virtual Assistant | Data Analytics Enthusiast\"\n---\n\n# Welcome 👋\n\nI am Fritz Butohan, an agriculture professional with over six years of experience in **research, crop trials, field operations, horticulture, and remote administrative support**.\n\nI combine my background in agriculture with growing skills in:\n\n- Data Analytics\n- R Programming\n- SQL\n- Excel / Google Sheets\n- Tableau Visualization\n- Customer Support\n- Virtual Assistance\n\n## What I Do\n\n🌱 **Agriculture & Research**\n\nExperience in: - Plant breeding - Crop evaluation trials - Field data collection - Research operations\n\n💻 **Virtual Assistance**\n\nProviding support in: - Customer communication - Scheduling - Data management - Administrative tasks - CRM updates\n\n📊 **Data Analytics**\n\nCurrently building skills in: - RStudio - SQL - Data visualization - Statistical analysis\n\n## Explore My Portfolio\n\nUse the navigation menu above to learn more about my:\n\n- Professional background\n\n- Projects\n\n- Resume\n\n- \n\n  ## Contact information\n\nThis is a Quarto website.\n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
