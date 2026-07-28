@@ -11,3 +11,4 @@ _site/
 
 # Project files
 *.Rproj
+/.quarto/
