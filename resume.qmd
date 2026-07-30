@@ -17,42 +17,6 @@ toc: true
 🔗 LinkedIn: linkedin.com/in/fritz-butohan
 :::
 
-## Career Highlights
-
-::::::::::: stats
-:::: stat-box
-::: stat-number
-10,900+
-:::
-
-Active Customers
-::::
-
-:::: stat-box
-::: stat-number
-86
-:::
-
-New Accounts
-::::
-
-:::: stat-box
-::: stat-number
-80-90%
-:::
-
-Requests Resolved
-::::
-
-:::: stat-box
-::: stat-number
-55
-:::
-
-Varieties Advanced
-::::
-:::::::::::
-
 ::: resume-card
 ## Professional Summary
 
