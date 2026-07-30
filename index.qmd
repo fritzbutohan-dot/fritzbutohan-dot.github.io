@@ -5,7 +5,7 @@ subtitle: "Agriculture Professional | Virtual Assistant | Data Analytics Enthusi
 
 # Welcome 👋
 
-I am Fritz Calvin F. Butohan, an agriculture professional with over six years of experience in **research, crop trials, field operations, horticulture, and remote administrative support**.
+I am Fritz Calvin F. Butohan, an agriculture professional with over six years of experience in research, crop trials, field operations, horticulture, and remote administrative support.
 
 I combine my background in agriculture with growing skills in:
 
@@ -41,7 +41,7 @@ Use the navigation menu above to learn more about my:
 
 - Resume
 
-  ## Contact information
+## Contact information
 
 📧 fritzbutohan\@gmail.com
 
