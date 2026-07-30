@@ -1,1 +1,192 @@
+---
+title: "Resume"
+toc: true
+---
 
+::: resume-hero
+# Fritz Butohan
+
+### Virtual Assistant \| Agriculture Professional \| Data Analytics Enthusiast
+
+📍 Bukidnon, Philippines
+
+📧 fritzbutohan\@gmail.com
+
+📞 +63 905 837 5355
+
+🔗 LinkedIn: linkedin.com/in/fritz-butohan
+:::
+
+## Career Highlights
+
+::::::::::: stats
+:::: stat-box
+::: stat-number
+10,900+
+:::
+
+Active Customers
+::::
+
+:::: stat-box
+::: stat-number
+86
+:::
+
+New Accounts
+::::
+
+:::: stat-box
+::: stat-number
+80-90%
+:::
+
+Requests Resolved
+::::
+
+:::: stat-box
+::: stat-number
+55
+:::
+
+Varieties Advanced
+::::
+:::::::::::
+
+::: resume-card
+## Professional Summary
+
+Detail-oriented Virtual Assistant with proven success supporting U.S.-based businesses at scale. Skilled in managing customer communications for over **10,900 active accounts**, streamlining operations, and driving customer retention.
+
+Combines strong administrative expertise with data analytics skills (**SQL, Tableau, and R**) to deliver accurate reporting and process improvements in remote environments.
+
+Recognized for reliability, independence, and high-volume task management in fast-paced environments.
+:::
+
+::: resume-card
+## Core Skills
+
+### Customer Support & Communication
+
+- Customer Service
+- Email Management
+- Call Handling
+- Client Outreach
+- Sales Follow-Up
+
+### Administrative & Scheduling
+
+- Appointment Coordination
+- Calendar Management
+- Documentation
+- Reporting
+- Record Management
+
+### CRM & Data Management
+
+- CRM Systems
+- Data Entry
+- Payment Processing
+- Operational Data Organization
+
+### Remote Team Support
+
+- Task Coordination
+- Process Improvement
+- Cross-Functional Collaboration
+:::
+
+::: resume-card
+## Software & Tools
+
+### VA & Productivity Tools
+
+- Google Workspace
+- Microsoft Office
+- Google Sheets
+- Trello
+- Canva
+- Pipedrive CRM
+
+### Data & Analytics Tools
+
+- Microsoft Excel
+- Tableau
+- SQL
+- R Programming
+:::
+
+## Professional Experience
+
+::::::: timeline
+::: timeline-item
+### 🖥️ GREEN4EVER
+
+**Virtual Assistant – Customer Support & Operations (Remote)**
+
+*May 2025 – Present*
+
+- Resolved **80–90% of customer requests independently**, reducing escalation workload.
+- Managed communications for **10,900+ active customers**, handling **15–20 calls** and **5–10 emails/texts daily**.
+- Converted **86 new customer accounts** by following up on **136 estimates**, boosting sales conversion.
+- Processed **8–12 payments daily**, ensuring accuracy and timely account updates.
+- Maintained customer records (contact info, service details, property data), improving data reliability.
+:::
+
+::: timeline-item
+### 🐜 OCS Facilities Services Philippines
+
+**Pest Control Supervisor**
+
+*Feb 2025 – Apr 2025*
+
+- Supervised **4 technicians** across **54 client sites**, ensuring service quality and compliance.
+- Conducted **32 site inspections**, improving client satisfaction and operational efficiency.
+- Maintained documentation for **43 customer accounts**, streamlining reporting processes.
+:::
+
+::: timeline-item
+### 🌽 Evo Gene Seeds Corporation
+
+**Field Agronomist**
+
+*Nov 2022 – Apr 2023*
+
+- Coordinated field activities across **12 locations**, ensuring accurate trial documentation.
+- Advanced **2 glyphosate-ready corn hybrids** toward market introduction through data analysis.
+- Supported research trials and evaluations, strengthening product development pipeline.
+:::
+
+::: timeline-item
+### 🌱 East-West Seed Company, Inc.
+
+**Research Assistant**
+
+*Aug 2017 – May 2022*
+
+- Managed **35–40 crop trials annually** across multiple sites, ensuring precise data collection.
+- Contributed to advancement of **55 new varieties annually**, with **12 launched commercially**.
+- Presented trial results and technical justifications to support product decisions.
+:::
+:::::::
+
+::: resume-card
+## Education
+
+### Bachelor of Science in Agriculture
+
+**Major in Crop Science – Specialization in Plant Breeding**
+
+Central Mindanao University
+:::
+
+::: resume-card
+## Certifications
+
+- General Virtual Assistant Bootcamp – SOVA Cebu (2025)
+- Google Data Analytics Professional Certificate (2024)
+:::
+
+## Download Resume
+
+📄 [Download PDF Resume](resume/Fritz_Butohan_Resume.pdf)
