@@ -25,19 +25,19 @@ Recognized for reliability, independence, and high-volume task management in fas
 ::: resume-card
 ## Core Skills
 
-### Customer Support & Communication
+#### Customer Support & Communication
 
 - Customer Service \| Email Management \| Call Handling \| Client Outreach \| Sales Follow-Up
 
-### Administrative & Scheduling
+#### Administrative & Scheduling
 
 - Appointment Coordination \| Calendar Management \| Documentation \| Record Management
 
-### CRM & Data Management
+#### CRM & Data Management
 
 - CRM Systems \| Data Entry \| Payment Processing \| Operational Data Organization
 
-### Remote Team Support
+#### Remote Team Support
 
 - Task Coordination \| Process Improvement \| Cross-Functional Collaboration
 :::
@@ -45,11 +45,11 @@ Recognized for reliability, independence, and high-volume task management in fas
 ::: resume-card
 ## Software & Tools
 
-### VA & Productivity Tools
+#### VA & Productivity Tools
 
 - Google Workspace \| Microsoft Office \| Google Sheets \| Trello \| Canva \| Pipedrive CRM
 
-### Data & Analytics Tools
+#### Data & Analytics Tools
 
 - Microsoft Excel \| Tableau \| SQL \| R Programming
 :::
@@ -58,7 +58,7 @@ Recognized for reliability, independence, and high-volume task management in fas
 
 ::::::: timeline
 ::: timeline-item
-### 🖥️ GREEN4EVER
+### 🖥️ Green4Ever, Inc.
 
 **Virtual Assistant – Customer Support & Operations (Remote)**
 
@@ -72,7 +72,7 @@ Recognized for reliability, independence, and high-volume task management in fas
 :::
 
 ::: timeline-item
-### 🐜 OCS Facilities Services Philippines
+### 🐜 OCS Facilities Services
 
 **Pest Control Supervisor**
 
