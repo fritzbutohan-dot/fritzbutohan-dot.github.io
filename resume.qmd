@@ -1,23 +1,11 @@
 # Fritz Calvin F. Butohan
 
-::: resume-hero
-### Virtual Assistant \| Agriculture Professional \| Data Analytics Enthusiast
-
-📍 Bukidnon, Philippines
-
-📧 fritzbutohan\@gmail.com
-
-📞 +63 905 837 5355
-
-🔗 LinkedIn: linkedin.com/in/fritz-butohan
-:::
-
 ::: resume-card
 ## Professional Summary
 
-Detail-oriented Virtual Assistant with proven success supporting U.S.-based businesses at scale. Skilled in managing customer communications for over **10,900 active accounts**, streamlining operations, and driving customer retention.
+Detail-oriented Virtual Assistant with proven success supporting U.S.-based businesses at scale. Skilled in managing customer communications for over 10,900 active accounts, streamlining operations, and driving customer retention.
 
-Combines strong administrative expertise with data analytics skills (**SQL, Tableau, and R**) to deliver accurate reporting and process improvements in remote environments.
+Combines strong administrative expertise with data analytics skills (SQL, Tableau, and R) to deliver accurate reporting and process improvements in remote environments.
 
 Recognized for reliability, independence, and high-volume task management in fast-paced environments.
 :::
